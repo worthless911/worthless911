@@ -1,5 +1,5 @@
 <div>
-<img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" alt="404">
+<img src="https://i.pinimg.com/originals/3e/53/af/3e53af6313c485e48449503a3b9a3736.gif" alt="404">
 <h3>Languages</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)![C++](https://img.shields.io/badge/C++-%23323330.svg?style=for-the-badge&logo=C%2B%2B&logoColor=%23F7DF1E)
